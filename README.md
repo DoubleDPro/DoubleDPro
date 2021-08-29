@@ -23,14 +23,25 @@
 <img align="left" alt="Kotlin" width="26px" src="https://user-images.githubusercontent.com/37687109/131246492-7b3da6b0-7f92-479f-b596-408e3f23ce87.jpg"/>
 <img align="left" alt="HTML5" height="26px" src="https://user-images.githubusercontent.com/37687109/131246376-9e4fc21a-b441-40e8-86f1-cc20276ad697.png"/>
 <img align="left" alt="CSS3" height="26px" src="https://user-images.githubusercontent.com/37687109/131246413-23818e4d-0808-46e7-b05b-d9ef7e3a34de.png"/>
+<img align="left" alt="SQL" height="26px" src="https://user-images.githubusercontent.com/37687109/131247471-ee3939f8-33fa-4fb6-ba59-68bc57b897a9.png"/>
 
 <br/>
 
 ### Frameworks
 
 <img align="left" alt="Spring Framework" height="26px" src="https://user-images.githubusercontent.com/37687109/131247108-0d722dc1-ca6e-4c59-b337-7b4c8fc51f03.png"/>
+<img align="left" alt="Vaadin" height="26px" src="https://user-images.githubusercontent.com/37687109/131247420-d72cf602-889d-43cc-a7c2-987f514e788c.png"/>
 <img align="left" alt="Primefaces" height="26px" src="https://user-images.githubusercontent.com/37687109/131247258-bd6a4f5d-25ec-4b29-bcc9-a7021017b16c.png"/>
+<img align="left" alt="Hibernate" height="26px" src="https://user-images.githubusercontent.com/37687109/131247396-68a49b00-1bfd-40e3-9111-14f6abe68dc5.png"/>
 <img align="left" alt="Maven" height="26px" src="https://user-images.githubusercontent.com/37687109/131246237-7011f3f6-b793-46e9-bff7-06d57662c433.png"/>
+
+<br/>
+
+### Testing
+
+<img align="left" alt="JUnit5" height="26px" src="https://user-images.githubusercontent.com/37687109/131247176-eb5ec8a3-add3-4e32-9304-d7cb875f92ec.png"/>
+<img align="left" alt="Mockito" height="26px" src="https://user-images.githubusercontent.com/37687109/131247079-474e8d4c-f00e-4b4f-b48a-8f5dd2c80387.png"/>
+<img align="left" alt="PowerMock" height="26px" src="https://user-images.githubusercontent.com/37687109/131247232-57b994d3-ccf8-4c6f-9448-594800e2f296.png"/>
 
 <br/>
 
@@ -80,11 +91,15 @@
 
 <br/>
 
-### Testing
+### SCA
 
-<img align="left" alt="JUnit5" height="26px" src="https://user-images.githubusercontent.com/37687109/131247176-eb5ec8a3-add3-4e32-9304-d7cb875f92ec.png"/>
-<img align="left" alt="Mockito" height="26px" src="https://user-images.githubusercontent.com/37687109/131247079-474e8d4c-f00e-4b4f-b48a-8f5dd2c80387.png"/>
-<img align="left" alt="PowerMock" height="26px" src="https://user-images.githubusercontent.com/37687109/131247232-57b994d3-ccf8-4c6f-9448-594800e2f296.png"/>
+<img align="left" alt="SonarQube" height="26px" src="https://user-images.githubusercontent.com/37687109/131247339-bd2c67f4-daae-4612-8955-b6f760a9fe71.png"/>
+<img align="left" alt="Sonarlint" height="26px" src="https://user-images.githubusercontent.com/37687109/131247378-116eb2a5-f2ed-468f-a6c3-edfbe6a7b06d.png"/>
+
+### OS
+
+<img align="left" alt="MS Windows" height="26px" src="https://user-images.githubusercontent.com/37687109/131247446-c1295ba8-6b96-478a-8835-463c992135cd.png"/>
+<img align="left" alt="Linux" height="26px" src="https://user-images.githubusercontent.com/37687109/131247462-3dd8cffc-4723-4c0d-ae31-5489c05d1032.png"/>
 
 [phone]: https://t.me/DoubleDPro
 [youtube]: https://www.youtube.com/channel/UCCcP17sRdjXVSyEK8rvnj2w
