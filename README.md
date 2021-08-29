@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on my project Wishboard
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on some interesting open-source projects
-- 💬 Ask me about everything about development
+- 💬 Ask me everything about development
 
 ### Connect with me
 
