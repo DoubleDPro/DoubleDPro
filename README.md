@@ -17,12 +17,12 @@
 
 ### Languages
 
-<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/37687109/131246131-5532646e-1e89-4333-b4bc-7cfa744bc97d.png"/>
+<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/37687109/131247769-3e08003c-a83b-4c0f-ba6c-60b3756cff91.png"/>
 <img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/37687109/131246444-4f65b0fe-efba-47fd-861a-3190e9bd4122.png"/>
-<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/37687109/131246470-c6d321a6-ed93-4b74-bd73-a9d07b43cbc9.jpg"/>
-<img align="left" alt="Kotlin" width="26px" src="https://user-images.githubusercontent.com/37687109/131246492-7b3da6b0-7f92-479f-b596-408e3f23ce87.jpg"/>
-<img align="left" alt="HTML5" height="26px" src="https://user-images.githubusercontent.com/37687109/131246376-9e4fc21a-b441-40e8-86f1-cc20276ad697.png"/>
-<img align="left" alt="CSS3" height="26px" src="https://user-images.githubusercontent.com/37687109/131246413-23818e4d-0808-46e7-b05b-d9ef7e3a34de.png"/>
+<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/37687109/131247526-7e053aa4-f69c-4327-8363-81b9305a844c.png"/>
+<img align="left" alt="Kotlin" width="26px" src="https://user-images.githubusercontent.com/37687109/131247541-929f30ad-efa1-4d51-8359-85593e17f134.png"/>
+<img align="left" alt="HTML5" height="26px" src="https://user-images.githubusercontent.com/37687109/131247559-8d2b04a6-84b9-4504-b680-56df03252b23.png"/>
+<img align="left" alt="CSS3" height="26px" src="https://user-images.githubusercontent.com/37687109/131247585-fe6881bd-cd3a-4aa1-919f-ef5d340f81a0.png"/>
 <img align="left" alt="SQL" height="26px" src="https://user-images.githubusercontent.com/37687109/131247471-ee3939f8-33fa-4fb6-ba59-68bc57b897a9.png"/>
 
 <br/>
@@ -33,7 +33,7 @@
 <img align="left" alt="Vaadin" height="26px" src="https://user-images.githubusercontent.com/37687109/131247420-d72cf602-889d-43cc-a7c2-987f514e788c.png"/>
 <img align="left" alt="Primefaces" height="26px" src="https://user-images.githubusercontent.com/37687109/131247258-bd6a4f5d-25ec-4b29-bcc9-a7021017b16c.png"/>
 <img align="left" alt="Hibernate" height="26px" src="https://user-images.githubusercontent.com/37687109/131247396-68a49b00-1bfd-40e3-9111-14f6abe68dc5.png"/>
-<img align="left" alt="Maven" height="26px" src="https://user-images.githubusercontent.com/37687109/131246237-7011f3f6-b793-46e9-bff7-06d57662c433.png"/>
+<img align="left" alt="Maven" height="26px" src="https://user-images.githubusercontent.com/37687109/131247816-e6839a09-7f21-40e1-8af4-7d866b8a1857.png"/>
 
 <br/>
 
@@ -53,7 +53,7 @@
 
 ### Databases
 
-<img align="left" alt="Oracle DB" height="26px" src="https://user-images.githubusercontent.com/37687109/131246628-17b394f1-c1eb-481a-b55e-83ae0f08b0ca.png"/>
+<img align="left" alt="Oracle DB" height="26px" src="https://user-images.githubusercontent.com/37687109/131247878-2c791c70-307e-4292-b7cf-ebb5cc7f70c9.png"/>
 <img align="left" alt="PostgreSQL" width="26px" src="https://user-images.githubusercontent.com/37687109/131246654-4b22086c-c5bd-449a-baa4-9b736131840d.png"/>
 <img align="left" alt="H2" width="26px" src="https://user-images.githubusercontent.com/37687109/131247152-eb0877da-e395-4140-baa8-14eea0957d2d.png"/>
 
@@ -95,6 +95,8 @@
 
 <img align="left" alt="SonarQube" height="26px" src="https://user-images.githubusercontent.com/37687109/131247339-bd2c67f4-daae-4612-8955-b6f760a9fe71.png"/>
 <img align="left" alt="Sonarlint" height="26px" src="https://user-images.githubusercontent.com/37687109/131247378-116eb2a5-f2ed-468f-a6c3-edfbe6a7b06d.png"/>
+
+<br/>
 
 ### OS
 
