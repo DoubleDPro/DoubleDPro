@@ -65,7 +65,7 @@
 
 <br/>
 
-### Message Broakers
+### Message Brokers
 
 <img align="left" alt="RabbitMQ" height="26px" src="https://user-images.githubusercontent.com/37687109/131246951-ad4e368e-a20e-4b35-8ce6-44efde1da6ce.png"/>
 <img align="left" alt="Apache ActiveMQ" height="26px" src="https://user-images.githubusercontent.com/37687109/131246978-55cf45eb-428d-4b45-a747-c8a1267378d2.png"/>
