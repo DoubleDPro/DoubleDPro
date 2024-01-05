@@ -2,7 +2,7 @@
 
 ## I'm a TeamLead, Lead Java Developer, Teacher and Mentor!
 
-- 🔭 I’m currently working on my project Wishboard
+- 🔭 I’m currently working on my project Interview System
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on some interesting open-source projects
 - 💬 Ask me everything about development
